@@ -28,3 +28,4 @@ For a comprehensive list of available datasets (Academic, Research, and Roboflow
 ## Prototype ideas:
 - First step: Explore all the available relevant datasets
 - Build the initial model to prove the concept
+- Webapp to overlay the detected landmines on the original image, then to the actual map location using GPS metadata from the image

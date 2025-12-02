@@ -7,6 +7,7 @@ This document lists available datasets for landmine detection, including optical
 ### MineInsight: A Multi-sensor Dataset for Humanitarian Demining Robotics in Off-Road Environments
 - **Paper:** [arXiv:2506.04842v1](https://arxiv.org/html/2506.04842v1)
 - **Repository:** [GitHub](https://github.com/mariomlz99/MineInsight)
+- Remarks from Son Pham: Don't use it as our objective is to detect landmines from drone.
 
 ### A UAV-Based VNIR Hyperspectral Benchmark Dataset for Landmine and UXO Detection
 - **Paper:** [arXiv:2510.02700](https://www.arxiv.org/pdf/2510.02700)
