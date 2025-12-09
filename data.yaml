@@ -1,0 +1,14 @@
+path: ./dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['MineGuard-Thermal - v15 2024-02-14 4-41pm']
+
+roboflow:
+  workspace: wandering
+  project: landmine_detection-orignal_fyp-nr588
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/wandering/landmine_detection-orignal_fyp-nr588/dataset/1
