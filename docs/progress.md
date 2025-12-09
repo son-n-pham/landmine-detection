@@ -1,10 +1,19 @@
 # 9-Dec-2025
-- Downloaded 2 datasets for initial experiments:
-  - UAV-Based VNIR Hyperspectral Benchmark Dataset for Landmine and UXO Detection (20GB)
-  - Detection of “legbreaker” antipersonnel landmines by analysis of aerial thermographic images of the soil (smaller dataset with pretrained model available)
 
+## What I did:
+- Downloaded three datasets from Roboflow for initial experiments. Used the latest dataset to set up the data pipeline, train the model, and run inference.
+<img width="1591" height="197" alt="image" src="https://github.com/user-attachments/assets/d9e2d5f0-78a7-4a4a-8429-7fcbe41395fd" />
+- Restructured the entire repository to better manage both the code and datasets.
+  <img width="215" height="521" alt="image" src="https://github.com/user-attachments/assets/696f3adc-1910-4413-b788-c61ce145a298" />
+- Prepared all Python scripts for data validation, model training, and prediction using the trained YOLOv11 model.
 
+## Next Steps
+- Add code to process input images while preserving quality for training and prediction. This may include implementing a tiling strategy.
+- Test the training and prediction scripts to evaluate and quantify performance.
 
+## Consideration:
+- Develop functionality to robustly merge additional datasets with the current one to improve model quality.
+- Review the progress report from a Curtin student working on a similar project to extract lessons learned and apply them to this project.
 
 # 2-Dec-2025:
 - Go through the datasets listed in dataset.md to identify the most suitable ones for initial experiments.
