@@ -6,6 +6,8 @@
 4. Inference: Run `uv run python predict.py` to visualize results on new data.
 
 ## Project Structure:
+
+```text
 project-root/
      ├── .venv/                     # Virtual environment (created by uv)
      ├── dataset/                   # YOUR DATA GOES HERE
