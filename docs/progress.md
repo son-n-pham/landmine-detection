@@ -4,7 +4,9 @@
 - Downloaded three datasets from Roboflow for initial experiments. Used the latest dataset to set up the data pipeline, train the model, and run inference.
 <img width="1591" height="197" alt="image" src="https://github.com/user-attachments/assets/d9e2d5f0-78a7-4a4a-8429-7fcbe41395fd" />
 - Restructured the entire repository to better manage both the code and datasets.
-  <img width="215" height="521" alt="image" src="https://github.com/user-attachments/assets/696f3adc-1910-4413-b788-c61ce145a298" />
+
+<img width="215" height="521" alt="image" src="https://github.com/user-attachments/assets/696f3adc-1910-4413-b788-c61ce145a298" />
+
 - Prepared all Python scripts for data validation, model training, and prediction using the trained YOLOv11 model.
 
 ## Next Steps
