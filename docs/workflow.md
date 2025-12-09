@@ -1,9 +1,9 @@
 ## Workflow:
 
-1. Data: Run validate_data.py to clean data. Setup data.yaml.
-2. Setup: Run uv init, uv add ultralytics opencv-python.
-3. Train: Run train.py. It auto-saves best.pt. Monitor for overfitting (Validation Loss should decrease).
-4. Inference: Run predict.py to visualize results on new data.
+1. Data: Run `uv run python validate_data.py` to clean data. Setup data.yaml.
+2. Setup: Run `uv init`, `uv add ultralytics opencv-python`.
+3. Train: Run `uv run python train.py`. It auto-saves best.pt. Monitor for overfitting (Validation Loss should decrease).
+4. Inference: Run `uv run python predict.py` to visualize results on new data.
 
 ## Project Structure:
 project-root/
