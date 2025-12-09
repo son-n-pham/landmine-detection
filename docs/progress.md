@@ -1,3 +1,11 @@
+# 9-Dec-2025
+- Downloaded 2 datasets for initial experiments:
+  - UAV-Based VNIR Hyperspectral Benchmark Dataset for Landmine and UXO Detection (20GB)
+  - Detection of “legbreaker” antipersonnel landmines by analysis of aerial thermographic images of the soil (smaller dataset with pretrained model available)
+
+
+
+
 # 2-Dec-2025:
 - Go through the datasets listed in dataset.md to identify the most suitable ones for initial experiments.
 - Focus on datasets that provide UAV imagery, both optical and thermal.
